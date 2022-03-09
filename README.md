@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Build](https://github.com/harmzway/harmzway/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/harmzway/harmzway/actions/workflows/build.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=harmzway_harmzway&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=harmzway_harmzway)
 
 <!--
 **harmzway/harmzway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
