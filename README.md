@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Build](https://github.com/harmzway/harmzway/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/harmzway/harmzway/actions/workflows/build.yml)
+
 <!--
 **harmzway/harmzway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
